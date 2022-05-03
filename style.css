@@ -34,8 +34,8 @@ header h2 {
 }
 .search-form button {
   border: none;
-  padding: 0.5;
-  font-size: 1rem;
+  padding: 1rem;
+  font-size: 0.5 rem;
   background: rgb(74, 68, 131);
   color: white;
 }
